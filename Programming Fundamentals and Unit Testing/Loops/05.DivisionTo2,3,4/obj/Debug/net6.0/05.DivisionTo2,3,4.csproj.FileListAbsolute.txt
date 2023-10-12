@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\bin\Debug\net6.0\05.DivisionTo2,3,4.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\bin\Debug\net6.0\05.DivisionTo2,3,4.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\bin\Debug\net6.0\05.DivisionTo2,3,4.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\bin\Debug\net6.0\05.DivisionTo2,3,4.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\bin\Debug\net6.0\05.DivisionTo2,3,4.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\refint\05.DivisionTo2,3,4.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\05.DivisionTo2,3,4.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Loops\05.DivisionTo2,3,4\obj\Debug\net6.0\ref\05.DivisionTo2,3,4.dll
