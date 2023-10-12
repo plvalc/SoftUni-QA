@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\bin\Debug\net6.0\04.mandatoryLiterature.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\bin\Debug\net6.0\04.mandatoryLiterature.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\bin\Debug\net6.0\04.mandatoryLiterature.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\bin\Debug\net6.0\04.mandatoryLiterature.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\bin\Debug\net6.0\04.mandatoryLiterature.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\refint\04.mandatoryLiterature.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\04.mandatoryLiterature.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\04.mandatoryLiterature\obj\Debug\net6.0\ref\04.mandatoryLiterature.dll

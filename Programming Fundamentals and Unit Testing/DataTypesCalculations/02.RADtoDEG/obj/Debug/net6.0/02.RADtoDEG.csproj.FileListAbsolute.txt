@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\bin\Debug\net6.0\02.RADtoDEG.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\refint\02.RADtoDEG.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\02.RADtoDEG.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\02.RADtoDEG\obj\Debug\net6.0\ref\02.RADtoDEG.dll

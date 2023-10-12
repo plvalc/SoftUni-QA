@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\bin\Debug\net6.0\06.Operations.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\bin\Debug\net6.0\06.Operations.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\bin\Debug\net6.0\06.Operations.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\bin\Debug\net6.0\06.Operations.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\bin\Debug\net6.0\06.Operations.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\refint\06.Operations.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\06.Operations.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\06.Operations\obj\Debug\net6.0\ref\06.Operations.dll

@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\bin\Debug\net6.0\03.New House.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\bin\Debug\net6.0\03.New House.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\bin\Debug\net6.0\03.New House.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\bin\Debug\net6.0\03.New House.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\bin\Debug\net6.0\03.New House.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\refint\03.New House.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\03.New House.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\03.New House\obj\Debug\net6.0\ref\03.New House.dll

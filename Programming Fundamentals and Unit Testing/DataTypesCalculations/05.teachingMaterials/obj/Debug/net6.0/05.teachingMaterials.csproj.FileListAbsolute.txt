@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\bin\Debug\net6.0\05.teachingMaterials.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\bin\Debug\net6.0\05.teachingMaterials.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\bin\Debug\net6.0\05.teachingMaterials.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\bin\Debug\net6.0\05.teachingMaterials.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\bin\Debug\net6.0\05.teachingMaterials.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\refint\05.teachingMaterials.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\05.teachingMaterials.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\05.teachingMaterials\obj\Debug\net6.0\ref\05.teachingMaterials.dll

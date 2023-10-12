@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\bin\Debug\net6.0\06.redecorating.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\bin\Debug\net6.0\06.redecorating.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\bin\Debug\net6.0\06.redecorating.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\bin\Debug\net6.0\06.redecorating.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\bin\Debug\net6.0\06.redecorating.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\refint\06.redecorating.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\06.redecorating.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\06.redecorating\obj\Debug\net6.0\ref\06.redecorating.dll

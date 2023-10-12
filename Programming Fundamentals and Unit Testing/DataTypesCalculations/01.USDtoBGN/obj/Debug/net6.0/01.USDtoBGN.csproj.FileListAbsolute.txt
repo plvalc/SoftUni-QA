@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\bin\Debug\net6.0\01.USDtoBGN.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\refint\01.USDtoBGN.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\01.USDtoBGN.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\ExercisesFirstStepsinProgrammingDataTypesCalculations\01.USDtoBGN\obj\Debug\net6.0\ref\01.USDtoBGN.dll

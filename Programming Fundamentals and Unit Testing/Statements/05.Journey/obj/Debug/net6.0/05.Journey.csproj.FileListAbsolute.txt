@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\bin\Debug\net6.0\05.Journey.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\bin\Debug\net6.0\05.Journey.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\bin\Debug\net6.0\05.Journey.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\bin\Debug\net6.0\05.Journey.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\bin\Debug\net6.0\05.Journey.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\refint\05.Journey.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\05.Journey.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\05.Journey\obj\Debug\net6.0\ref\05.Journey.dll

@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\bin\Debug\net6.0\07.Hotel Room.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\bin\Debug\net6.0\07.Hotel Room.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\bin\Debug\net6.0\07.Hotel Room.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\bin\Debug\net6.0\07.Hotel Room.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\bin\Debug\net6.0\07.Hotel Room.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\refint\07.Hotel Room.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\07.Hotel Room.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Statements\07.Hotel Room\obj\Debug\net6.0\ref\07.Hotel Room.dll

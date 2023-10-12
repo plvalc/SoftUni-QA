@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\bin\Debug\net6.0\03.depositCalculator.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\bin\Debug\net6.0\03.depositCalculator.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\bin\Debug\net6.0\03.depositCalculator.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\bin\Debug\net6.0\03.depositCalculator.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\bin\Debug\net6.0\03.depositCalculator.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\refint\03.depositCalculator.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\03.depositCalculator.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\DataTypesCalculations\03.depositCalculator\obj\Debug\net6.0\ref\03.depositCalculator.dll
