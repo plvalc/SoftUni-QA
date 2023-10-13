@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\bin\Debug\net6.0\01.Sign of Integer Number.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\bin\Debug\net6.0\01.Sign of Integer Number.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\bin\Debug\net6.0\01.Sign of Integer Number.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\bin\Debug\net6.0\01.Sign of Integer Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\bin\Debug\net6.0\01.Sign of Integer Number.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\refint\01.Sign of Integer Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\01.Sign of Integer Number.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\01.Sign of Integer Number\obj\Debug\net6.0\ref\01.Sign of Integer Number.dll
