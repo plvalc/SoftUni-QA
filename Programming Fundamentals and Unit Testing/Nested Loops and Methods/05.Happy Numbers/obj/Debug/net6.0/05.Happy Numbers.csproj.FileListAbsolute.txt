@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\bin\Debug\net6.0\05.Happy Numbers.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\bin\Debug\net6.0\05.Happy Numbers.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\bin\Debug\net6.0\05.Happy Numbers.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\bin\Debug\net6.0\05.Happy Numbers.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\bin\Debug\net6.0\05.Happy Numbers.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\refint\05.Happy Numbers.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\05.Happy Numbers.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\05.Happy Numbers\obj\Debug\net6.0\ref\05.Happy Numbers.dll

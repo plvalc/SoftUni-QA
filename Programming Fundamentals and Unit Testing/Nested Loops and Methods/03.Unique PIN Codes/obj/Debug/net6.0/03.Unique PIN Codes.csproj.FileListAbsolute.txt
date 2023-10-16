@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\bin\Debug\net6.0\03.Unique PIN Codes.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\bin\Debug\net6.0\03.Unique PIN Codes.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\bin\Debug\net6.0\03.Unique PIN Codes.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\bin\Debug\net6.0\03.Unique PIN Codes.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\bin\Debug\net6.0\03.Unique PIN Codes.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\refint\03.Unique PIN Codes.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\03.Unique PIN Codes.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\Programming Fundamentals and Unit Testing\Nested Loops and Methods\03.Unique PIN Codes\obj\Debug\net6.0\ref\03.Unique PIN Codes.dll

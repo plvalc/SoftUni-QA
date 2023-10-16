@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj": {}
+    "C:\\Users\\Plamen\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj": {
+    "C:\\Users\\Plamen\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj",
+        "projectUniqueName": "C:\\Users\\Plamen\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj",
         "projectName": "03.Printing Triangle",
-        "projectPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj",
-        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\obj\\",
+        "projectPath": "C:\\Users\\Plamen\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\03.Printing Triangle.csproj",
+        "packagesPath": "C:\\Users\\Plamen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Plamen\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Methods\\03.Printing Triangle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Plamen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

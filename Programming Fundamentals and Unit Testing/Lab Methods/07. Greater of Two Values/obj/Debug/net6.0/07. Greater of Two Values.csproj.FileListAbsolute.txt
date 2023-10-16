@@ -1,0 +1,14 @@
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\bin\Debug\net6.0\07. Greater of Two Values.exe
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\bin\Debug\net6.0\07. Greater of Two Values.deps.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\bin\Debug\net6.0\07. Greater of Two Values.runtimeconfig.json
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\bin\Debug\net6.0\07. Greater of Two Values.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\bin\Debug\net6.0\07. Greater of Two Values.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.AssemblyInfoInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.AssemblyInfo.cs
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\refint\07. Greater of Two Values.dll
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.pdb
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\07. Greater of Two Values.genruntimeconfig.cache
+C:\Users\Plamen\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Methods\07. Greater of Two Values\obj\Debug\net6.0\ref\07. Greater of Two Values.dll
