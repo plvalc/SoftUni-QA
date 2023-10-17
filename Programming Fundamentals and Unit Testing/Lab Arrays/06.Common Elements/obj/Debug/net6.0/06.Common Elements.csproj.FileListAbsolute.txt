@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\bin\Debug\net6.0\06.Common Elements.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\bin\Debug\net6.0\06.Common Elements.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\bin\Debug\net6.0\06.Common Elements.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\bin\Debug\net6.0\06.Common Elements.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\bin\Debug\net6.0\06.Common Elements.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\refint\06.Common Elements.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\06.Common Elements.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Lab Arrays\06.Common Elements\obj\Debug\net6.0\ref\06.Common Elements.dll

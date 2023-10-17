@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj",
-      "projectName": "03.BiggestOfFiveNumbers",
-      "projectPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\05.Vacation Expences\\05.Vacation Expences.csproj",
+      "projectName": "05.Vacation Expences",
+      "projectPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\05.Vacation Expences\\05.Vacation Expences.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\05.Vacation Expences\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

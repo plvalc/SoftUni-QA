@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj",
-      "projectName": "03.BiggestOfFiveNumbers",
-      "projectPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\03.BiggestOfFiveNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Arrays\\06.Common Elements\\06.Common Elements.csproj",
+      "projectName": "06.Common Elements",
+      "projectPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Arrays\\06.Common Elements\\06.Common Elements.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\ConditonalStatements\\BiggestOfFiveNumbers\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Dropbox\\Docs\\Study\\QA\\SoftUni-QA\\Programming Fundamentals and Unit Testing\\Lab Arrays\\06.Common Elements\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
