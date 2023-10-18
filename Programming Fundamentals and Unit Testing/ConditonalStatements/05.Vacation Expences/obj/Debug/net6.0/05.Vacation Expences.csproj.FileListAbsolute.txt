@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\bin\Debug\net6.0\05.Vacation Expences.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\bin\Debug\net6.0\05.Vacation Expences.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\bin\Debug\net6.0\05.Vacation Expences.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\bin\Debug\net6.0\05.Vacation Expences.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\bin\Debug\net6.0\05.Vacation Expences.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\refint\05.Vacation Expences.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\05.Vacation Expences.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\05.Vacation Expences\obj\Debug\net6.0\ref\05.Vacation Expences.dll

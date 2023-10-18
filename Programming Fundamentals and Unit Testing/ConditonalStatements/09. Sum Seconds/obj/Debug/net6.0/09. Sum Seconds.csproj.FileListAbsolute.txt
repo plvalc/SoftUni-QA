@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\bin\Debug\net6.0\09. Sum Seconds.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\refint\09. Sum Seconds.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\09. Sum Seconds.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\09. Sum Seconds\obj\Debug\net6.0\ref\09. Sum Seconds.dll
