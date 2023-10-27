@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\bin\Debug\net6.0\02.Condense Array To Number.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\bin\Debug\net6.0\02.Condense Array To Number.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\bin\Debug\net6.0\02.Condense Array To Number.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\bin\Debug\net6.0\02.Condense Array To Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\bin\Debug\net6.0\02.Condense Array To Number.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\refint\02.Condense Array To Number.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\02.Condense Array To Number.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\02.Condense Array To Number\obj\Debug\net6.0\ref\02.Condense Array To Number.dll

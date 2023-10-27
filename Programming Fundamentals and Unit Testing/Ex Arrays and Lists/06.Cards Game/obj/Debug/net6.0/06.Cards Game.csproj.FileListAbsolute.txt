@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\bin\Debug\net6.0\06.Cards Game.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\bin\Debug\net6.0\06.Cards Game.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\bin\Debug\net6.0\06.Cards Game.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\bin\Debug\net6.0\06.Cards Game.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\bin\Debug\net6.0\06.Cards Game.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\refint\06.Cards Game.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\06.Cards Game.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\06.Cards Game\obj\Debug\net6.0\ref\06.Cards Game.dll

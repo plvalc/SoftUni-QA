@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\bin\Debug\net6.0\04.Sum Adjacent Equal Numbers.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\bin\Debug\net6.0\04.Sum Adjacent Equal Numbers.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\bin\Debug\net6.0\04.Sum Adjacent Equal Numbers.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\bin\Debug\net6.0\04.Sum Adjacent Equal Numbers.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\bin\Debug\net6.0\04.Sum Adjacent Equal Numbers.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\refint\04.Sum Adjacent Equal Numbers.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\04.Sum Adjacent Equal Numbers.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\Ex Arrays and Lists\04.Sum Adjacent Equal Numbers\obj\Debug\net6.0\ref\04.Sum Adjacent Equal Numbers.dll
