@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iccT2YX1icfmC1UJ/ws1reA77q7RXu4xv2qPtfQS+fse9QrVA4VEcEZVyWKcWpsiKLkVDAZR4TBvqmPFsp5zGg==",
+  "dgSpecHash": "bBIXqWWnwVJyJswYUCunqeU8KsEL8LRPrqd/1cmH7FX5U6cYi04M2iRl36N7aczklq3twRcgejFZXfinih3AXQ==",
   "success": true,
-  "projectFilePath": "C:\\Plamen\\QA\\Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp\\TestApp.csproj",
+  "projectFilePath": "C:\\Plamen\\repos\\SoftUni-QA\\Programming Advanced for QA - Nov 2023\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp\\TestApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

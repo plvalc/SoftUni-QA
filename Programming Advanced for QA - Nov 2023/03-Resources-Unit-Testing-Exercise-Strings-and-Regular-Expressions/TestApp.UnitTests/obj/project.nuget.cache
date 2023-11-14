@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U1er4QQJvDbUznA1FU46tRIjPAR1oEmqY3shOYQDaB678vWTtqE58vPUK2ei2ivjinY7YamP200KEUIBaTFeHA==",
+  "dgSpecHash": "GxxlkqCz2Hg+lDjXueKlbluLkYd9o5WTvdu0U2/XEGy5pBND8dj2zeNoYnVovtCEFehhw4IZy2CznuFQXcPxbQ==",
   "success": true,
-  "projectFilePath": "C:\\Plamen\\QA\\Programming Advanced for QA\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
+  "projectFilePath": "C:\\Plamen\\repos\\SoftUni-QA\\Programming Advanced for QA - Nov 2023\\03-Resources-Unit-Testing-Exercise-Strings-and-Regular-Expressions\\TestApp.UnitTests\\TestApp.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
