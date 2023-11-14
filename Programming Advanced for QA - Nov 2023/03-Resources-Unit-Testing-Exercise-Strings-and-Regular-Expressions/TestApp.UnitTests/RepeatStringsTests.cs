@@ -22,12 +22,26 @@ public class RepeatStringsTests
     [Test]
     public void Test_Repeat_SingleInputString_ReturnsRepeatedString()
     {
-        // TODO: finish this test
+        // Arrange
+        string[] input = {"abc"};
+
+        // Act
+        string result = RepeatStrings.Repeat(input);
+
+        // Assert
+        Assert.That(result, Is.EqualTo("abcabcabc"));
     }
 
     [Test]
     public void Test_Repeat_MultipleInputStrings_ReturnsConcatenatedRepeatedStrings()
     {
-        // TODO: finish this test
+        // Arrange
+        string[] input = { "abc", "dd", "t12r" };
+
+        // Act
+        string result = RepeatStrings.Repeat(input);
+
+        // Assert
+        Assert.That(result, Is.EqualTo("abcabcabcddddt12rt12rt12rt12r"));
     }
 }

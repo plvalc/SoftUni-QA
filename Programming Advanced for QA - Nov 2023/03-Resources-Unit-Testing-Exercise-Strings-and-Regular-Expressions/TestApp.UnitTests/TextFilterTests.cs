@@ -6,33 +6,62 @@ namespace TestApp.UnitTests;
 
 public class TextFilterTests
 {
-    // TODO: finish the test
+
     [Test]
     public void Test_Filter_WhenNoBannedWords_ShouldReturnOriginalText()
     {
         // Arrange
+        string[] bannedWords = { "blaf" };
+        string text = "The quick brown fox jumps over the lazy dog";
 
         // Act
+        string result = TextFilter.Filter(bannedWords, text);
 
         // Assert
-        //Assert.That(result, Is.EqualTo(text));
+        Assert.That(result, Is.EqualTo(text));
     }
 
     [Test]
     public void Test_Filter_WhenBannedWordExists_ShouldReplaceBannedWordWithAsterisks()
     {
-        // TODO: finish the test
+        // Arrange
+        string[] bannedWords = { "quick", "lazy" };
+        string text = "The quick brown fox jumps over the lazy dog";
+        string expected = "The ***** brown fox jumps over the **** dog";
+
+        // Act
+        string result = TextFilter.Filter(bannedWords, text);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 
     [Test]
     public void Test_Filter_WhenBannedWordsAreEmpty_ShouldReturnOriginalText()
     {
-        // TODO: finish the test
+        // Arrange
+        string[] bannedWords = Array.Empty<string>();
+        string text = "The quick brown fox jumps over the lazy dog";
+
+        // Act
+        string result = TextFilter.Filter(bannedWords, text);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(text));
     }
 
     [Test]
     public void Test_Filter_WhenBannedWordsContainWhitespace_ShouldReplaceBannedWord()
     {
-        // TODO: finish the test
+        // Arrange
+        string[] bannedWords = { "brown fox", "lazy"};
+        string text = "The quick brown fox jumps over the lazy dog";
+        string expected = "The quick ********* jumps over the **** dog";
+
+        // Act
+        string result = TextFilter.Filter(bannedWords, text);
+
+        // Assert
+        Assert.That(result, Is.EqualTo(expected));
     }
 }
