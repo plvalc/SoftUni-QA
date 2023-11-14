@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.English Name of Each Digit", "01.English Name of Each Digit\01.English Name of Each Digit.csproj", "{581F3D96-AABD-4999-8F00-063C580D8156}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Average Last Elements", "02.Average Last Elements\02.Average Last Elements.csproj", "{FA8C7505-03D1-4ADA-AA7A-5D03F8DDDAAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{581F3D96-AABD-4999-8F00-063C580D8156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{581F3D96-AABD-4999-8F00-063C580D8156}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{581F3D96-AABD-4999-8F00-063C580D8156}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{581F3D96-AABD-4999-8F00-063C580D8156}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8C7505-03D1-4ADA-AA7A-5D03F8DDDAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8C7505-03D1-4ADA-AA7A-5D03F8DDDAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8C7505-03D1-4ADA-AA7A-5D03F8DDDAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8C7505-03D1-4ADA-AA7A-5D03F8DDDAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF23495D-5483-436F-B3B7-FE481E676790}
+	EndGlobalSection
+EndGlobal

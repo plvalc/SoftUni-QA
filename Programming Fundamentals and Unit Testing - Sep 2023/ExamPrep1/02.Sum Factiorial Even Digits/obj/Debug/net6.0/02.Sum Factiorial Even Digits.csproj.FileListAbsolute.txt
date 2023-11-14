@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\bin\Debug\net6.0\02.Sum Factiorial Even Digits.exe
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\bin\Debug\net6.0\02.Sum Factiorial Even Digits.deps.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\bin\Debug\net6.0\02.Sum Factiorial Even Digits.runtimeconfig.json
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\bin\Debug\net6.0\02.Sum Factiorial Even Digits.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\bin\Debug\net6.0\02.Sum Factiorial Even Digits.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.AssemblyInfo.cs
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\refint\02.Sum Factiorial Even Digits.dll
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.pdb
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\02.Sum Factiorial Even Digits.genruntimeconfig.cache
+C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ExamPrep1\02.Sum Factiorial Even Digits\obj\Debug\net6.0\ref\02.Sum Factiorial Even Digits.dll

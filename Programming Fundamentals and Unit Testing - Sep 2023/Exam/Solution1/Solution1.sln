@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Calculate Average Grade", "Problem-1\01.Calculate Average Grade.csproj", "{B000EC8D-B90A-454B-9EF2-1BA2301FAFDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Rotations", "Problem-2\02.Rotations.csproj", "{27CA245D-127A-4B3C-B287-D40A8C4EF1BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B000EC8D-B90A-454B-9EF2-1BA2301FAFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B000EC8D-B90A-454B-9EF2-1BA2301FAFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B000EC8D-B90A-454B-9EF2-1BA2301FAFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B000EC8D-B90A-454B-9EF2-1BA2301FAFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CA245D-127A-4B3C-B287-D40A8C4EF1BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CA245D-127A-4B3C-B287-D40A8C4EF1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CA245D-127A-4B3C-B287-D40A8C4EF1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CA245D-127A-4B3C-B287-D40A8C4EF1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EBF2CE9-9D36-4F31-802C-9CDA0D7205E5}
+	EndGlobalSection
+EndGlobal
