@@ -4,10 +4,9 @@ namespace TestApp.UnitTests;
 
 public class EmailValidatorTests
 {
-    // TODO: finish the test
-    //[TestCase()]
-    //[TestCase()]
-    //[TestCase()]
+    [TestCase("abc@google.com")]
+    [TestCase("ghf.f1f@abc.de")]
+    [TestCase("d.f_b%d+g-@abc-bg.com")]
     public void Test_ValidEmails_ReturnsTrue(string email)
     {
         // Arrange
@@ -19,10 +18,9 @@ public class EmailValidatorTests
         Assert.That(result, Is.True);
     }
 
-    // TODO: finish the test
-    //[TestCase()]
-    //[TestCase()]
-    //[TestCase()]
+    [TestCase("a@b.c")]
+    [TestCase("d/@google.com")]
+    [TestCase("a?b@mail.bg")]
     public void Test_InvalidEmails_ReturnsFalse(string email)
     {
         // Arrange
