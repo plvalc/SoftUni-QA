@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\bin\Debug\net6.0\01.Count Chars in a String.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\bin\Debug\net6.0\01.Count Chars in a String.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\bin\Debug\net6.0\01.Count Chars in a String.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\bin\Debug\net6.0\01.Count Chars in a String.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\bin\Debug\net6.0\01.Count Chars in a String.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\refint\01.Count Chars in a String.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\01.Count Chars in a String.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\01.Count Chars in a String\obj\Debug\net6.0\ref\01.Count Chars in a String.dll
