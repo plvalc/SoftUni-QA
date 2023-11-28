@@ -1,0 +1,11 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\06-Resources-Unit-Testing-Exercise-Dictionaries\TestApp\obj\Debug\net6.0\ref\TestApp.dll
