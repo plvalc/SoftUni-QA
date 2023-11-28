@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\bin\Debug\net6.0\05. Student Academy.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\refint\05. Student Academy.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\05. Student Academy.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\05. Student Academy\obj\Debug\net6.0\ref\05. Student Academy.dll

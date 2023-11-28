@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\bin\Debug\net6.0\03.Orders.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\bin\Debug\net6.0\03.Orders.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\bin\Debug\net6.0\03.Orders.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\bin\Debug\net6.0\03.Orders.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\bin\Debug\net6.0\03.Orders.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\refint\03.Orders.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\03.Orders.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\03.Orders\obj\Debug\net6.0\ref\03.Orders.dll

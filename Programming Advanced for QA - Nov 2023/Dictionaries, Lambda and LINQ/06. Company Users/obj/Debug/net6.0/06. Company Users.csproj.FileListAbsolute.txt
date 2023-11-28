@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\bin\Debug\net6.0\06. Company Users.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\bin\Debug\net6.0\06. Company Users.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\bin\Debug\net6.0\06. Company Users.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\bin\Debug\net6.0\06. Company Users.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\bin\Debug\net6.0\06. Company Users.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\refint\06. Company Users.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\06. Company Users.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\obj\Debug\net6.0\ref\06. Company Users.dll
