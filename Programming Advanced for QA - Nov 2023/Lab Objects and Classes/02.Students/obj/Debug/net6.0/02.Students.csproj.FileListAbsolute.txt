@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\bin\Debug\net6.0\02.Students.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\bin\Debug\net6.0\02.Students.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\bin\Debug\net6.0\02.Students.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\bin\Debug\net6.0\02.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\bin\Debug\net6.0\02.Students.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\refint\02.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\02.Students.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\02.Students\obj\Debug\net6.0\ref\02.Students.dll

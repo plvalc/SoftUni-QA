@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\bin\Debug\net6.0\01.Songs.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\bin\Debug\net6.0\01.Songs.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\bin\Debug\net6.0\01.Songs.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\bin\Debug\net6.0\01.Songs.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\bin\Debug\net6.0\01.Songs.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\refint\01.Songs.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\01.Songs.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\01.Songs\obj\Debug\net6.0\ref\01.Songs.dll

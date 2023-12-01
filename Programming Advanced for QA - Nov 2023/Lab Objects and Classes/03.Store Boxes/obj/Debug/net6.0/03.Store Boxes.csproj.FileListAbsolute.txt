@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\bin\Debug\net6.0\03.Store Boxes.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\bin\Debug\net6.0\03.Store Boxes.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\bin\Debug\net6.0\03.Store Boxes.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\bin\Debug\net6.0\03.Store Boxes.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\bin\Debug\net6.0\03.Store Boxes.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\refint\03.Store Boxes.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\03.Store Boxes.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\obj\Debug\net6.0\ref\03.Store Boxes.dll
