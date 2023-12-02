@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\bin\Debug\net6.0\04.Vehicle Catalogue.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\bin\Debug\net6.0\04.Vehicle Catalogue.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\bin\Debug\net6.0\04.Vehicle Catalogue.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\bin\Debug\net6.0\04.Vehicle Catalogue.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\bin\Debug\net6.0\04.Vehicle Catalogue.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\refint\04.Vehicle Catalogue.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\04.Vehicle Catalogue.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\04.Vehicle Catalogue\obj\Debug\net6.0\ref\04.Vehicle Catalogue.dll
