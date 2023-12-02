@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\bin\Debug\net6.0\CarManufacturer.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\refint\CarManufacturer.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\CarManufacturer.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Defining Classes\CarManufacturer\obj\Debug\net6.0\ref\CarManufacturer.dll
