@@ -1,0 +1,14 @@
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.AssemblyInfoInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.AssemblyInfo.cs
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.csproj.CoreCompileInputs.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\bin\Debug\net6.0\01.Students.exe
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\bin\Debug\net6.0\01.Students.deps.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\bin\Debug\net6.0\01.Students.runtimeconfig.json
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\bin\Debug\net6.0\01.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\bin\Debug\net6.0\01.Students.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\refint\01.Students.dll
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.pdb
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\01.Students.genruntimeconfig.cache
+C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Ex Objects and Classes\01.Students\obj\Debug\net6.0\ref\01.Students.dll
