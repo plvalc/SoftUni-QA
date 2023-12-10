@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestApp
 build_property.ProjectDir = C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\10-Resources-Unit-Testing-Exercise-Classes\TestApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

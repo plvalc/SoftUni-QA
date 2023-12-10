@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = 03.BiggestOfFiveNumbers
-build_property.ProjectDir = C:\Users\Lenovo\Dropbox\Docs\Study\QA\SoftUni-QA\Programming Fundamentals and Unit Testing\ConditonalStatements\BiggestOfFiveNumbers\
+build_property.ProjectDir = C:\Plamen\repos\SoftUni-QA\Programming Fundamentals and Unit Testing - Sep 2023\ConditonalStatements\BiggestOfFiveNumbers\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

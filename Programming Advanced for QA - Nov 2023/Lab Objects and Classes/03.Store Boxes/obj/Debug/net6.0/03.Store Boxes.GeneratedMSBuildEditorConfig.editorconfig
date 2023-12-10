@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _03.Store_Boxes
 build_property.ProjectDir = C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Lab Objects and Classes\03.Store Boxes\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

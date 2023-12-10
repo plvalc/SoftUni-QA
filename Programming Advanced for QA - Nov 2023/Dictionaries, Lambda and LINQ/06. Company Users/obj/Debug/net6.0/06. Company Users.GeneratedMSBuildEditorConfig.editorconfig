@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _06._Company_Users
 build_property.ProjectDir = C:\Plamen\repos\SoftUni-QA\Programming Advanced for QA - Nov 2023\Dictionaries, Lambda and LINQ\06. Company Users\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

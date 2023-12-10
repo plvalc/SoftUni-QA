@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Square Root", "01.Square Root\01.Square Root.csproj", "{3E3CDC29-2A1B-4AF8-A0B1-DA23566FB7D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Square Root", "01.Square Root\01.Square Root.csproj", "{3E3CDC29-2A1B-4AF8-A0B1-DA23566FB7D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Enter Numbers", "02.Enter Numbers\02.Enter Numbers.csproj", "{C878261F-ED5F-4ADD-9E18-534DC0CF4628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Enter Numbers", "02.Enter Numbers\02.Enter Numbers.csproj", "{C878261F-ED5F-4ADD-9E18-534DC0CF4628}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.SumOfIntegers", "03.SumOfIntegers\03.SumOfIntegers.csproj", "{A0961481-143B-4937-97C7-8FCD65FB17D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C878261F-ED5F-4ADD-9E18-534DC0CF4628}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C878261F-ED5F-4ADD-9E18-534DC0CF4628}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C878261F-ED5F-4ADD-9E18-534DC0CF4628}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0961481-143B-4937-97C7-8FCD65FB17D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0961481-143B-4937-97C7-8FCD65FB17D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0961481-143B-4937-97C7-8FCD65FB17D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0961481-143B-4937-97C7-8FCD65FB17D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
