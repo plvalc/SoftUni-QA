@@ -1,7 +1,6 @@
 ﻿using Cars;
-using System;
 
-public class Tesla : ICar, IElectriCar
+public class Tesla : ICar, IElectricCar
 {
     public string Model { get; set; }
     public string Color { get; set; }
@@ -16,17 +15,17 @@ public class Tesla : ICar, IElectriCar
 
     public string Start()
     {
-        return $"Engine start";
+        return "Engine start";
     }
 
     public string Stop()
     {
-        return $"Break!";
+        return "Break!";
     }
     public override string ToString()
     {
-        return $"{this.Color} {this.GetType().Name} {this.Model} with {this.Battery} Batteries" +
-            $"{Environment.NewLine}{this.Start()}" +
-            $"{Environment.NewLine}{this.Stop()}";
+        return $"{this.Color} Tesla {this.Model} with {this.Battery} Batteries" +
+            $"\n{this.Start()}" +
+            $"\n{this.Stop()}";
     }
 }

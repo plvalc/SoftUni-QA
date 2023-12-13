@@ -1,5 +1,4 @@
 ﻿using Cars;
-using System;
 
 public class Seat : ICar
 {
@@ -14,18 +13,18 @@ public class Seat : ICar
 
     public string Start()
     {
-        return $"Engine start";
+        return "Engine start";
     }
 
     public string Stop()
     {
-        return $"Break!";
+        return "Break!";
     }
 
     public override string ToString()
     {
-        return $"{this.Color} {this.GetType().Name} {this.Model}" +
-            $"{Environment.NewLine}{this.Start()}" +
-            $"{ Environment.NewLine}{ this.Stop()}";
+        return $"{this.Color} Seat {this.Model}" +
+            $"\n{this.Start()}" +
+            $"\n{ this.Stop()}";
     }
 }

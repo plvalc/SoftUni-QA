@@ -2,4 +2,17 @@ namespace Animals.Models;
 
 public abstract class Animal
 {
+    private string name;
+    private string favouriteFood;
+
+    public Animal(string name, string favouriteFood)
+    {
+        this.name = name;
+        this.favouriteFood = favouriteFood;
+    }
+    public virtual string ExplainSelf()
+    {
+        //I am Peter and my fovourite food is Whiskas
+        return $"I am {this.name} and my fovourite food is {this.favouriteFood}";
+    }
 }
