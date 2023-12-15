@@ -16,7 +16,12 @@ public class ChatRoom
     public string DisplayChat()
     {
         StringBuilder sb = new();
-        
+
+        if (this._chatMessages.Count == 0)
+        {
+            return string.Empty;
+        }
+
         sb.AppendLine("Chat Room Messages:");
         foreach (ChatMessage message in this._chatMessages)
         {
